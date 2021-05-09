@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Gone Phishin
-date: 2021-05-08 07:00:00 +0000
+title: Gone Phishing
+date: 2021-05-08T07:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -46,6 +46,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
-published: false
 
 ---
