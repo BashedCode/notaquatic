@@ -3,7 +3,7 @@ title: NotAquatic
 author: NotAquatic Solutions
 email: support@forestry.io
 description: 'We do phishing. '
-baseurl: "/ubuild-jekyll"
+baseurl: "/notaquatic"
 url: ''
 defaults:
 - scope:
