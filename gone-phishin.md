@@ -5,8 +5,14 @@ date: 2021-05-08 07:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2021/05/09/logo.png"
+  navigation:
+  - link: ''
+    link_text: Portfolio
+  - link_text: About
+    link: ''
+  - link: ''
+    link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
