@@ -42,8 +42,8 @@ page_sections:
     alt_text: ''
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: Avoid an incident. Let us phish you before the real thing happens.
+  email_recipient: newsletter@notaquatic.com
 - template: simple-footer
   block: footer-1
   content: ''
