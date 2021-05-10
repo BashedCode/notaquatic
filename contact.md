@@ -3,13 +3,10 @@ layout: blocks
 title: ''
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: ''
   navigation: []
-  cta:
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
