@@ -5,7 +5,7 @@ date: 2021-05-08T07:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/05/09/logo.png"
+  logo: "/uploads/2021/05/10/logo_name.png"
   navigation:
   - link: ''
     link_text: Portfolio
