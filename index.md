@@ -19,12 +19,13 @@ page_sections:
   image:
     image: "/uploads/2021/05/10/irina-8feynw1s3vu-unsplash.jpg"
     alt_text: Chair looking over the ocean https://unsplash.com/photos/8feynW1s3VU
-  headline: ''
-  content: ''
+  headline: Gone Phishing
+  content: 'Someone taught us how to phish, now we are out protecting the safety of
+    others. This world is a dangerous place. Connect with us for cybersecurity help. '
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: https://hackmycompany.com
+    button_text: Phish me
 - template: 1-column-text
   block: one-column-1
   headline: Gone Phishing
