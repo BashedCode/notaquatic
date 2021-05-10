@@ -17,8 +17,8 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2021/05/10/irina-8feynw1s3vu-unsplash.jpg"
+    alt_text: Chair looking over the ocean https://unsplash.com/photos/8feynW1s3VU
   headline: ''
   content: ''
   cta:
