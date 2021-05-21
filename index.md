@@ -27,6 +27,6 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   content: Avoid an incident. Let us phish you before the real thing happens.
-  email_recipient: newsletter@notaquatic.com
+  email_recipient: https://formspree.io/f/mqkwpjvl
 
 ---
