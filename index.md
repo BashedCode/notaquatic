@@ -24,21 +24,6 @@ page_sections:
     enabled: true
     url: https://hackmycompany.com
     button_text: HackMyCompany.com
-- template: 1-column-text
-  block: one-column-1
-  headline: Gone Phishing
-  slug: gone-phishing
-  content: 'We are off doing what we do: Phishing a company to help them be more prepared
-    for the real thing. '
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: signup-bar
   block: cta-bar
   content: Avoid an incident. Let us phish you before the real thing happens.
