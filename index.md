@@ -23,7 +23,7 @@ page_sections:
   cta:
     enabled: true
     url: https://hackmycompany.com
-    button_text: Phish me
+    button_text: HackMyCompany.com
 - template: 1-column-text
   block: one-column-1
   headline: Gone Phishing
