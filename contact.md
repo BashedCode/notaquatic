@@ -5,12 +5,10 @@ date: 2021-05-09 00:00:00 -0700
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2021/05/10/logo_name.png"
+  logo: "/uploads/2021/05/09/logo.png"
   navigation:
-  - link: ''
-    link_text: Portfolio
-  - link: ''
-    link_text: About
+  - link: Https://HackMyCompany.com
+    link_text: Hack My Company
   - link: contact.html
     link_text: Contact
 - template: content-feature
