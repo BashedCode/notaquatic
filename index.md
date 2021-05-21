@@ -7,10 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/05/10/logo_name.png"
   navigation:
-  - link: ''
-    link_text: Portfolio
-  - link_text: About
-    link: ''
+  - link_text: HackMyCompany.com
+    link: https://hackmycompany.com
   - link: ''
     link_text: Contact
 - template: hero-banner-w-image
@@ -19,7 +17,7 @@ page_sections:
   image:
     image: "/uploads/2021/05/10/irina-8feynw1s3vu-unsplash.jpg"
     alt_text: Chair looking over the ocean https://unsplash.com/photos/8feynW1s3VU
-  headline: Gone Phishing
+  headline: "<strong>Gone Phishing</strong>"
   content: 'Someone taught us how to phish, now we are out protecting the safety of
     others. This world is a dangerous place. Connect with us for cybersecurity help. '
   cta:
@@ -45,8 +43,5 @@ page_sections:
   block: cta-bar
   content: Avoid an incident. Let us phish you before the real thing happens.
   email_recipient: newsletter@notaquatic.com
-- template: simple-footer
-  block: footer-1
-  content: ''
 
 ---
