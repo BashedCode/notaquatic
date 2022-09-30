@@ -3,8 +3,8 @@ title: NotAquatic
 author: NotAquatic Solutions Corp.
 email: info@notaquatic.com
 description: 'We do phishing. '
-baseurl: ''
-url: ''
+baseurl: notaquatic.com
+url: www.notaquatic.com
 defaults:
 - scope:
     path: ''
