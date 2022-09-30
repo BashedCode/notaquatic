@@ -7,8 +7,6 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/05/09/logo.png"
   navigation:
-  - link_text: HackMyCompany.com
-    link: https://hackmycompany.com
   - link: ''
     link_text: Contact
 - template: hero-banner-w-image
@@ -21,7 +19,7 @@ page_sections:
   content: 'Someone taught us how to phish, now we are out protecting the safety of
     others. This world is a dangerous place. Connect with us for cybersecurity help. '
   cta:
-    enabled: true
+    enabled: false
     url: https://hackmycompany.com
     button_text: HackMyCompany.com
 - template: signup-bar
