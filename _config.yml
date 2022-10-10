@@ -3,7 +3,7 @@ title: NotAquatic Solutions
 author: NotAquatic Solutions Corp.
 email: info@notaquatic.com
 description: 'We do phishing. '
-baseurl: notaquatic.com
+baseurl: ''
 url: www.notaquatic.com
 defaults: []
 plugins:
