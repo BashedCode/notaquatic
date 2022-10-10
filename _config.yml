@@ -4,7 +4,7 @@ author: NotAquatic Solutions Corp.
 email: info@notaquatic.com
 description: 'We do phishing. '
 baseurl: ''
-url: www.notaquatic.com
+url: ''
 defaults: []
 plugins:
 - jekyll-feed
