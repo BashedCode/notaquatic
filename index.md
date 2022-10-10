@@ -11,7 +11,7 @@ page_sections:
     link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2022/10/10/website-image-irina-8feynw1s3vu-unsplash.html"
   image:
     image: "/uploads/2021/05/10/irina-8feynw1s3vu-unsplash.jpg"
     alt_text: Chair looking over the ocean from https://unsplash.com/photos/8feynW1s3VU
