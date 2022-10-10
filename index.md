@@ -16,8 +16,9 @@ page_sections:
     image: "/uploads/2021/05/10/irina-8feynw1s3vu-unsplash.jpg"
     alt_text: Chair looking over the ocean from https://unsplash.com/photos/8feynW1s3VU
   headline: "<strong>Gone Phishing</strong>"
-  content: 'Someone taught us how to phish, now we are out protecting the safety of
-    others. This world is a dangerous place. Connect with us for cybersecurity help. '
+  content: Someone taught us how to phish, now we are out protecting the safety of
+    others. <br>The world is a dangerous place. Connect with us for cybersecurity
+    help.
   cta:
     enabled: false
     url: https://hackmycompany.com
